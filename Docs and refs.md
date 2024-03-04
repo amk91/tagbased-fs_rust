@@ -1,0 +1,5 @@
+- TagFS: A simple tag-based filesystem - MIT https://web.mit.edu/6.033/2011/wwwdocs/writing-samples/sbezek_dp1.pdf
+- https://stackoverflow.com/a/3263550
+- https://stackoverflow.com/a/19431997
+- look at Obsidian?
+- https://en.m.wikipedia.org/wiki/Semantic_file_system#
