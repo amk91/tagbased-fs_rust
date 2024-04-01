@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs and refs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d1fbdba3b38da9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Tag-based Filesystem in Rust.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9093025f5b7f661f",
@@ -160,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5d1fbdba3b38da9e",
+  "active": "d2cbbbd5c0f11ae0",
   "lastOpenFiles": [
-    "Citations.md",
-    "Tag-based Filesystem in Rust.md",
     "Docs and refs.md",
-    "Untitled.md"
+    "Tag-based Filesystem in Rust.md",
+    "Untitled.md",
+    "Citations.md"
   ]
 }
