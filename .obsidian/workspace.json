@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b67107604a200d4a",
+        "id": "9aaaef6d442e755c",
         "type": "tabs",
         "children": [
           {
-            "id": "0dee912dc6269923",
+            "id": "2d9d0d763d1c2cea",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5d1fbdba3b38da9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tag-based Filesystem in Rust.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9093025f5b7f661f",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs and refs.md",
+                "file": "Tag-based Filesystem in Rust.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs and refs.md",
+                "file": "Tag-based Filesystem in Rust.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs and refs.md"
+                "file": "Tag-based Filesystem in Rust.md"
               }
             }
           }
@@ -146,8 +160,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0dee912dc6269923",
+  "active": "5d1fbdba3b38da9e",
   "lastOpenFiles": [
-    "Docs and refs.md"
+    "Citations.md",
+    "Tag-based Filesystem in Rust.md",
+    "Docs and refs.md",
+    "Untitled.md"
   ]
 }
