@@ -17,7 +17,6 @@ A filesystem is a method of organizing, keeping track and accessing files on a s
 Whereas a hierarchical filesystem uses directories which contains information about files and other directories (called subdirectories) organized in a tree structure, a tag-based filesystem utilizes files metadata to organize them on the storage device. The two main type of metadata are the following:
 - [[#File type-specific]]
 - [[#Tags]]
-Given the fact that 
 
 #### File type-specific
 Metadata is extracted directly from the file itself thanks to transducers, which are programmable methods to extract data from specific file types. The transducers use the semantics of the file to build the metadata list used for indexing purposes. Each file type can have its own transducer that will extract specific information from the file. For example, a transducer programmed to retrieve information from an audio file could generated metadata from the following properties: name of the song, name of the album (if applicable), name of the artist, year of release, genre, recording sample rate, etc.
