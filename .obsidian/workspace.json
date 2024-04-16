@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9aaaef6d442e755c",
+        "id": "3b499fc6a966f6e5",
         "type": "tabs",
         "children": [
           {
-            "id": "2d9d0d763d1c2cea",
+            "id": "eb338b978498a9e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tag-based Filesystem in Rust.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e0639e33db3493bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes.md",
+                "file": "Docs and refs.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9093025f5b7f661f",
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tag-based Filesystem in Rust.md",
+                "file": "Docs and refs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tag-based Filesystem in Rust.md",
+                "file": "Docs and refs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tag-based Filesystem in Rust.md"
+                "file": "Docs and refs.md"
               }
             }
           }
@@ -159,11 +146,64 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d9d0d763d1c2cea",
+  "floating": {
+    "id": "c2d97536166707fa",
+    "type": "floating",
+    "children": [
+      {
+        "id": "1df5b370e4bbb7a6",
+        "type": "window",
+        "children": [
+          {
+            "id": "1084f7e7fc444d23",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "26d8f9e3e6f7d07c",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.pdf"
+                  }
+                }
+              },
+              {
+                "id": "fe046e4500d84601",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Docs/ETASR_1898.pdf"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical",
+        "x": 1028,
+        "y": 0,
+        "width": 1058,
+        "height": 1305,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "eb338b978498a9e2",
   "lastOpenFiles": [
-    "Notes.md",
     "Tag-based Filesystem in Rust.md",
+    "Notes.md",
     "Docs and refs.md",
+    "Docs/ETASR_1898.pdf",
+    "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.pdf",
+    "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.md",
+    "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.pdf.crdownload",
+    "Docs/TagFS A simple tag-based filesystem.pdf",
+    "Docs/Semantic File Systems by Gifford, Jouvelot, Sheldon and O'Toole.pdf",
+    "Docs",
     "Citations.md"
   ]
 }

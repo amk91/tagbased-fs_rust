@@ -1,7 +1,7 @@
 ## Chapters
 + #### [[#Introduction to tag-based filesystem]]
 	+ [[#Tag-based filesystems]]
-	+ [[#File type-specific metadata]]
+	+ [[#File type-specific]]
 	+ [[#Tags]]
 + #### [[#Use cases of tag-based filesystems]]
 + #### [[#Rust use cases of tag-based filesystems]]
