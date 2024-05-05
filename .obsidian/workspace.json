@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Docs and refs.md",
+                "file": "Notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Docs and refs.md",
+                "file": "Docs/howto-thesis.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Docs and refs.md",
+                "file": "Docs/howto-thesis.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Docs and refs.md"
+                "file": "Docs/howto-thesis.pdf"
               }
             }
           }
@@ -147,62 +147,69 @@
     }
   },
   "floating": {
-    "id": "c2d97536166707fa",
+    "id": "3dd9a4b03bc84c50",
     "type": "floating",
     "children": [
       {
-        "id": "1df5b370e4bbb7a6",
+        "id": "324f345920aa7ba0",
         "type": "window",
         "children": [
           {
-            "id": "1084f7e7fc444d23",
+            "id": "c488726f672a154a",
             "type": "tabs",
             "children": [
               {
-                "id": "26d8f9e3e6f7d07c",
+                "id": "7364624047bbf668",
                 "type": "leaf",
                 "state": {
                   "type": "pdf",
                   "state": {
-                    "file": "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.pdf"
-                  }
-                }
-              },
-              {
-                "id": "fe046e4500d84601",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "Docs/ETASR_1898.pdf"
+                    "file": "Docs/howto-thesis.pdf"
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
+          },
+          {
+            "id": "be9605fccbc2cf60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ab5b0344c14eab0f",
+                "type": "leaf",
+                "state": {
+                  "type": "pdf",
+                  "state": {
+                    "file": "Docs/howto-thesis.pdf"
+                  }
+                }
+              }
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 1028,
-        "y": 0,
-        "width": 1058,
-        "height": 1305,
+        "x": 475,
+        "y": 217,
+        "width": 1025,
+        "height": 801,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "eb338b978498a9e2",
+  "active": "ab5b0344c14eab0f",
   "lastOpenFiles": [
-    "Tag-based Filesystem in Rust.md",
     "Notes.md",
+    "Tag-based Filesystem in Rust.md",
     "Docs and refs.md",
-    "Docs/ETASR_1898.pdf",
     "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.pdf",
+    "Docs/howto-thesis.pdf",
+    "Docs/Semantic File Systems by Gifford, Jouvelot, Sheldon and O'Toole.pdf",
+    "Docs/howto-thesis.pdf.crdownload",
+    "Docs/ETASR_1898.pdf",
     "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.md",
     "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.pdf.crdownload",
     "Docs/TagFS A simple tag-based filesystem.pdf",
-    "Docs/Semantic File Systems by Gifford, Jouvelot, Sheldon and O'Toole.pdf",
     "Docs",
     "Citations.md"
   ]
