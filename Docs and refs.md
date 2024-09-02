@@ -19,3 +19,10 @@
 - https://en.m.wikipedia.org/wiki/Semantic_file_system#
 - https://www2.hawaii.edu/~esb/2004fall.ics612/SemanticFileSystems.htm
 - https://www.usenix.org/legacy/events/fast05/tech/full_papers/sivathanu_logic/sivathanu_logic.pdf
+
+TODO:
+- ~~chapter on various kinds of filesystems~~
+- ~~chapter on different types of tagbased filesystems~~
+- chapter on different implementations
+- chapter on api review
+- chapter on something about testing and benchmarking

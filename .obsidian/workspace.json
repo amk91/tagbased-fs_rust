@@ -20,39 +20,18 @@
             }
           },
           {
-            "id": "2fcc620599c873a6",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Docs/TagFS A simple tag-based filesystem.pdf"
-              }
-            }
-          },
-          {
             "id": "139dcaf4cb521054",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tag-based Filesystem in Rust.md",
+                "file": "Docs and refs.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb2b21e68cbb0eba",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Docs/TagFS A simple tag-based filesystem.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,10 +158,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "139dcaf4cb521054",
+  "active": "10540cfb126114f3",
   "lastOpenFiles": [
-    "Tag-based filesystems.md",
+    "Docs and refs.md",
+    "Docs/TagFS A simple tag-based filesystem.pdf",
     "Tag-based Filesystem in Rust.md",
+    "Tag-based filesystems.md",
     "Docs/Formalizing a Hierarchical File System - Hesselink, Lali.pdf",
     "Docs/TagFS - Tag Semantics for Hierarchical File Systems - Bloehdorn, Voelkel.pdf",
     "Docs/HopsFS - Niazi, Ismail, Haridi, Dowling.pdf",
@@ -192,8 +173,6 @@
     "Docs/Design Project 1 - A versioning file system.pdf",
     "Docs/ETASR_1898.pdf",
     "Docs/Semantic File Systems by Gifford, Jouvelot, Sheldon and O'Toole.pdf",
-    "Docs/TagFS A simple tag-based filesystem.pdf",
-    "Docs and refs.md",
     "Notes.md",
     "Docs/A Unified and Versatiel Data Model for Personal Dataspace Management.md",
     "Citations.md"
